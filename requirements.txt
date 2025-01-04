@@ -1,0 +1,4 @@
+fastapi==0.103.1  # Replace with the latest version if available
+uvicorn==0.22.0  # Replace with the latest version if available
+pytest==7.4.2    # Replace with the latest version if available
+httpx==0.24.1    # Used internally by TestClient for testing FastAPI apps
